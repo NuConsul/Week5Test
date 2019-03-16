@@ -6,7 +6,7 @@ public class SubstringAlgorithm {
         displayCombinations(0,"dog", new StringBuilder());
     }
 
-
+    //Multiple combination algorithm
     private static void displayCombinations(int stringIndex, String input, StringBuilder output)
     {
         for (int b = stringIndex; b < input.length(); b++)
