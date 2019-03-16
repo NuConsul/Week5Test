@@ -19,13 +19,3 @@ public class SubstringAlgorithm {
     }
 
 }
-
-
-/*
-
-2. Say you have a string of characters.
-    Write an algorithm to collect and return a list of all substrings
-    such that order is maintained but characters may be skipped.
-    So “frog” can produce fog, fg, rg, etc.
-
- */

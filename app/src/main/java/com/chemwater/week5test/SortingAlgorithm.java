@@ -1,7 +1,5 @@
 package com.chemwater.week5test;
 
-import java.util.* ;
-
 public class SortingAlgorithm {
 
     public static void main(String[] args) {
